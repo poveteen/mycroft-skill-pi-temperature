@@ -1,0 +1,10 @@
+{
+  "utterance": "what's the CPU temperature",
+  "intent_type": "PiCpuTemperatureIntent",
+  "intent": {
+    "query": "query",
+    "cpu": "cpu",
+    "temperature": "temperature"
+  },
+  "expected_dialog": "cpu temperature"
+}
